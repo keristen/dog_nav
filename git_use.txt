@@ -1,0 +1,7 @@
+以后修改代码，就在同一目录执行：
+git status
+git add .
+git commit -m "记录git使用命令"
+git push
+
+其中 git status 用来先检查待提交内容，`git add .` 选择文件，`git commit` 保存本地版本，`git push` 才把版本传到 GitHub。
