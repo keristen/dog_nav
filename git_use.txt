@@ -1,7 +1,7 @@
 以后修改代码，就在同一目录执行：
 git status
 git add .
-git commit -m "记录git使用命令"
+git commit -m "更新README"
 git push
 
 其中:
