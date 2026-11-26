@@ -1,0 +1,23 @@
+# Local Python environments and generated Python files
+.git-history-backup/
+.venv/
+**/.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+
+# ROS 2 build products
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# Local editor state and generated results
+.vscode/
+**/result/
+
+# Secrets and credentials
+.env
+.env.*
+auth.json
+*.pem
+*.key
